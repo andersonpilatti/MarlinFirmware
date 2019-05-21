@@ -1,7 +1,3 @@
-#include <TMC2130Stepper.h>
-#include <TMC2130Stepper_REGDEFS.h>
-#include <TMC2130Stepper_UTILITY.h>
-
 /**
  * Marlin 3D Printer Firmware
  * Copyright (C) 2019 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
